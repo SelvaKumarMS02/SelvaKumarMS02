@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Cypress/Python Testing
 - 📫 How to reach me Selva_S@outlook.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am Human
+- ⚡ Fun fact: I am a Human!!
 
 <!---
 SelvaKumarMS02/SelvaKumarMS02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
